@@ -19,3 +19,12 @@
         git push -u origin master
     </li>
 </ol>
+
+<ol>
+    <li>
+        fork repo
+    </li>
+    <li>
+        clone forked repo
+    </li>
+</ol>
